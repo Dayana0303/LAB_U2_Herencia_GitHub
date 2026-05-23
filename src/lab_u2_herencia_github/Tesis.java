@@ -7,7 +7,7 @@ package lab_u2_herencia_github;
 /**
  *
  * @author damur
- */
+ // Clase que representa una tesis universitaria*/
 public class Tesis extends Material {
    private String autor;
     private String universidad;
